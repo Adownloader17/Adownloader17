@@ -24,7 +24,7 @@ A full-stack app that analyzes GitHub profiles and provides real-time insights u
 
 ### 🔹 WebCore – Frontend Learning Hub  
 A beginner-friendly platform covering HTML, CSS, Git, Linux, SEO, and CI/CD basics  
-🔗 https://ankitaharihar.github.io/Webcore/  
+🔗 https://webcorespecial.netlify.app/
 💻 https://github.com/ankitaharihar/Webcore  
 
 ---
